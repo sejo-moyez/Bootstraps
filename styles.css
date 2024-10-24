@@ -1,0 +1,11 @@
+.hero {
+  background: url('https://www.qualityze.com/calibration-management') no-repeat center center/cover;
+}
+
+section {
+  padding: 60px 0;
+}
+
+.card {
+  margin-top: 20px;
+}
